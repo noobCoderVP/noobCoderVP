@@ -1,3 +1,8 @@
+## Hey, I'm Vaibhav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+<p style="width: 200px;">
+I'm Vaibhav Patel a Competitive programmer, Machine learning enthusiast and an aspiring full stack web developer. I Spend most of the the solving programming problems.</p>
+<div><img style="margin-right: 400px;" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" ><img src="https://media.giphy.com/media/vMV8KKoHREdtm/giphy.gif" width="300" ></div>
+
 # 💫 About Me:
 
 🔭 I’m currently Third Year Student at, Veermata Jeejabai Technological Institute.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning Machine learning in python.<br>💬 Ask me about anything related to dev and CP.<br>⚡ Fun fact: I am very talkative, tall.
